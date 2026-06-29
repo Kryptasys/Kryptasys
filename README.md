@@ -3,6 +3,8 @@
 **India's Sovereign Cyber Institution**
 
 We build compliance, forensic, and security infrastructure for Indian businesses and law enforcement.
+<img width="3701" height="1346" alt="KRYPTASYS (Edited)" src="https://github.com/user-attachments/assets/6ecc131f-5311-4c8d-8963-572b92e6f5c1" />
+
 
 ## Products
 
