@@ -22,5 +22,5 @@ Previously worked with Gurugram Cyber Police under the GPCSSI program, receiving
 
 ## Contact
 
-📧 contact@kryptasys.in  
+📧  https://kryptasys.in/contact / contact@kryptasys.in
 🌐 [kryptasys.in](https://kryptasys.in)
