@@ -16,7 +16,7 @@ We build compliance, forensic, and security infrastructure for Indian businesses
 
 **Vivek Kumar** — Founder & CEO, Kryptasys
 
-Previously worked with Gurugram Cyber Police under the GPCSSI program, receiving Letters of Appreciation from ACP Priyanshu Dewan and Dr. Rakshit Tandon. Built DPDP Shield after seeing firsthand how Indian businesses are unprepared for data protection enforcement.
+Founder of Kryptasys. Vivek's security credibility is established by his hands-on experience under the cyber police internship program in Delhi NCR, India. His digital forensics contributions earned formal Letters of Appreciation. Recognized as a Smart India Hackathon (SIH) 2024 Grand Finalist, he built LEAP v2 after identifying critical log analysis gaps during his Gurugram Cyber Police internship, applying forensic log-analysis techniques locally. He subsequently created DPDP Shield to translate this deep forensic rigor into a local compliance engine for Indian enterprises.
 
 🔗 [kryptasys.in/about](https://kryptasys.in/about)
 
